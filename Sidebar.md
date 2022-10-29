@@ -6,3 +6,5 @@
 [[Goals]]  
 - [[Regard]]  
 - [[High Quality Information]]  
+[[Obstacles]]  
+- [[Gullibility]]  
