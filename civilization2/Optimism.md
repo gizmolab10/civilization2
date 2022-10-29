@@ -1,6 +1,6 @@
 # Optimism
 
-I think that our civilization has become, for most of us, quite negative.
+I think that our civilization has become, for most of us, quite negative, hostile and exhausting.
 
 We are taught, I think wisely, to trust few people we encounter, little of what we read, and to expect to be cheated, betrayed, and lied to. Our online lives are immersed in passwords and complexity, needed because of online predators. Increasingly, junk mail, advertisements, petty crime, disinformation consume our attention. Robot intelligence is adding its own misery: calls, scams, bad phone menus, terrible web sites. Junk has become the new normal, along with murder, riots, brutality, manipulation and neglect.
 
