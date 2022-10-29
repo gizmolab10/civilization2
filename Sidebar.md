@@ -3,3 +3,6 @@
 [[Optimism|Home]]  
 - [[Can We Really Do This?]]  
 - [[Road Map]]  
+[[Goals]]  
+- [[Regard]]  
+- [[High Quality Information]]  
