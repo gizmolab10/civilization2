@@ -1,4 +1,7 @@
-# Can We Really Do This?
+# Is 2.0 Possible?
+
+
+
 Two big questions emerge: Can we flourish under a different economy, one that tends to create equality and nurturing? How do we collect together all our ideas?
 
 Is 2.0 a world a reasonable creative goal? Let’s ignore wealth for a moment and look at our resources at hand and compare them with our global needs as a species and planet. Oversimplified, our resources include things, language, knowledge, skill, infrastructure and culture. Our needs include shelter, food, water, health, energy, entertainment, cleaning up, community and a robust planet. Can we conclude that our resources can fulfill our needs now and for generations? With the exception of energy, the answer is a rather solid yes and that’s important. Scarcity is mostly an illusion that aids in generating profit, and needs to be carefully studied and stripped down to its essentials. Matching needs to resources is certainly no easier using money, which creates loss due to greed, crime, hoarding, and ecological mis-use.

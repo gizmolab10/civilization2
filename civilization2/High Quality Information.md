@@ -1,5 +1,7 @@
 # High Quality Information
 
+![](https://static.wixstatic.com/media/e7eb17_c4503ce015254284a9bf8258b72a4e9a~mv2.jpg/v1/fill/w_665,h_960,al_c,q_85,enc_auto/92951839_3177150818976330_28607340921592.jpg)
+
 Pundits often refer this and the previous century as the Information Age. However, a great fraction of the available information is misleading, inaccurate or just plain lies. We can trust only a fraction of what we read and we have to work hard to get reliable guidance. Purveyors of information also have to work hard to distinguish themselves as trustworthy.
 
 I think this is a silly use of language. Language seems to have always been present, but our species created it over millennia and our evolving genetics has molded our brain structures to absorb the rudiments of language early in life. This strikes us as beautiful, amazing and darned useful.

@@ -1,5 +1,7 @@
 # Goals
 
+![](https://static.wixstatic.com/media/e7eb17_aa22bd4d0e08448ab47fc2904bf69230~mv2.png/v1/crop/x_0,y_433,w_1116,h_706/fill/w_886,h_560,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202019-08-25%20at%201_25_00%20PM.png)
+
 Imagine for the moment that you have benevolent godlike powers. If our species could have whatever it wants, what would you start with? Let's imagine a handful of easily likable stuff that all seven billion of us can agree on and build our lives around.
 
 Our current civilization has evolved under the influence of ideas spread over centuries. Let's take all of what's good, and add qualities that make it better.

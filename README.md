@@ -1,4 +1,9 @@
-# Civilization 2.0
+# A World That is Nurturing for All of Us
+
+
+![](https://static.wixstatic.com/media/e7eb17_a121b324a625493f9250188d012ef990~mv2.jpg/v1/crop/x_0,y_1,w_389,h_225/fill/w_545,h_307,al_c,lg_1,q_80,enc_auto/e7eb17_a121b324a625493f9250188d012ef990~mv2.jpg)
+
+## Global Optimism
 
 I think that our civilization has become, for most of us, quite negative, hostile and exhausting.
 

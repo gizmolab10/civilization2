@@ -1,4 +1,9 @@
-# Road Map
+# How do we get to 2.0?
+
+![](https://static.wixstatic.com/media/9dd990a05a7b44d9819c297872522aeb.jpg/v1/crop/x_0,y_9,w_2760,h_2173/fill/w_900,h_708,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Diving%20with%20Whaleshark.jpg)
+
+## Everyone's opinion matters
+
 Our civilization is currently dominated by a small fraction of our global population. This would be okay if this group were trustworthy, acting in the best interest of everyone and of our planet. Day by day, it is decreasingly that way. 
 
 I want the opposite. Everyone must influence our civilization and our best interests must prevail. The first step is optimism that we can do it and deserve it. Out of that optimism and the energy it releases, we want to design what it shall be like, all of us together, a merry experiment in how to build a world that we can all love and admire.

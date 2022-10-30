@@ -1,5 +1,7 @@
 # Regard
 
+![https://static.wixstatic.com/media/nsplsh_564265397a6a2d4a484273~mv2_d_4928_3264_s_4_2.jpg/v1/crop/x_786,y_0,w_3335,h_3264/fill/w_910,h_910,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Image%20by%20Aarón%20Blanco%20Tejedor.jpg](https://static.wixstatic.com/media/nsplsh_564265397a6a2d4a484273~mv2_d_4928_3264_s_4_2.jpg/v1/crop/x_786,y_0,w_3335,h_3264/fill/w_910,h_910,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Image%20by%20Aar%C3%B3n%20Blanco%20Tejedor.jpg)
+
 For most of us, money affects many of our waking hours. At work, we earn money by doing rigidly constrained activities, for people that more easily find fault than provide encouragement. Money is perennially scarce: rare are those who feel they have enough of it. Cost of living seems to always grow faster than our wages. Many arguments are based on money issues. Our lives are immersed in a background hiss of stress, bickering and fear.
 
 Money is synonymous with survival. Everyone needs a personal minimum or they slowly perish. This drives efforts and distribution of goods across the globe, but also drives a troublesome fraction of our species towards lies, corruption and crime. It also drives the daily avalanche of advertising, junk mail and robocalls.

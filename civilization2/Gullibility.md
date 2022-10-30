@@ -1,5 +1,7 @@
 # Gullibility
 
+![](https://static.wixstatic.com/media/e7eb17_426a2b47159d443294a75bbffddaacaf~mv2.jpg/v1/fill/w_504,h_333,al_c,lg_1,q_80,enc_auto/fear.jpg)
+
 ## The obstacle to universal acceptance
 
 After considerable thinking, I've identified what I think is one of the major obstacles in our way: gullibility. As long as some people find it too difficult or are unwilling to question authority, we are unlikely to convince them that our current culture is harming them. The way past this obstacle is not clear to me. Can someone please resolve this, for all our sakes?
