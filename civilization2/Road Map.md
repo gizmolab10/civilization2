@@ -1,6 +1,6 @@
 # How do we get to 2.0?
 
-![](https://static.wixstatic.com/media/9dd990a05a7b44d9819c297872522aeb.jpg/v1/crop/x_0,y_9,w_2760,h_2173/fill/w_900,h_708,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Diving%20with%20Whaleshark.jpg)
+![[Diving with Whaleshark.jpg.webp]]
 
 ## Everyone's opinion matters
 
