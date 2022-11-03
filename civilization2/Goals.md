@@ -1,6 +1,6 @@
 # Goals
 
-![](https://static.wixstatic.com/media/e7eb17_aa22bd4d0e08448ab47fc2904bf69230~mv2.png/v1/crop/x_0,y_433,w_1116,h_706/fill/w_886,h_560,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202019-08-25%20at%201_25_00%20PM.png)
+![[Screen Shot 2019-08-25 at 1_25_00 PM.png.webp]]
 
 Imagine for the moment that you have benevolent godlike powers. If our species could have whatever it wants, what would you start with? Let's imagine a handful of easily likable stuff that all seven billion of us can agree on and build our lives around.
 

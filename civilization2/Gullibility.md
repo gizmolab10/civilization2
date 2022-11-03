@@ -1,6 +1,6 @@
 # Gullibility
 
-![](https://static.wixstatic.com/media/e7eb17_426a2b47159d443294a75bbffddaacaf~mv2.jpg/v1/fill/w_504,h_333,al_c,lg_1,q_80,enc_auto/fear.jpg)
+![[fear.jpg.webp]]
 
 ## The obstacle to universal acceptance
 
