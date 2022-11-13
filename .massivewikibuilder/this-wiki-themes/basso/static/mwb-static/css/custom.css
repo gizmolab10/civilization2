@@ -3,23 +3,25 @@
     max-height: 300em;
     box-sizing: content-box;
     background-color: #fff;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-    max-height:20em; }
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 20em; }
 .markdown-body { 
     font-family: "Times";
     font-size: 19px;
     line-height: 1.5;
     word-wrap: break-word; }
+.markdown-body h1,
+.markdown-body h2 {
+    margin-left: auto;
+    margin-right: auto; }
 .markdown-body h1, 
 .markdown-body h2, 
 .markdown-body h3, 
 .markdown-body h4,
 .markdown-body h5, 
 .markdown-body h6 {
-    margin-left: auto;
-    margin-right: auto;
     font-family:
 	-apple-system,
 	BlinkMacSystemFont,
