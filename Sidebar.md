@@ -9,6 +9,12 @@
 [[Obstacles]]  
 - [[Gullibility]]  
 [[Evidence]]  
-
+---
 [[The Game]]  
 - [[Plan]]  
+- [[Build]]  
+- [[Nudge]]  
+[[Appearance]]  
+- [[Visual]]  
+- [[Meeting]]  
+- [[Communication]]  
