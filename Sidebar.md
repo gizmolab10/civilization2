@@ -15,10 +15,10 @@
 # 2.0 The Game
 
 [[The Game]]  
-- [[Plan]]  
-- [[Build]]  
-- [[Nudge]]  
-[[Appearance]]  
-- [[Visual]]  
-- [[Meeting]]  
+- [[Game Plan]]  
+- [[Builders Guild]]  
+- [[Reality Guild]]  
+[[Appearances]]  
+- [[Visuals]]  
+- [[Meetings]]  
 - [[Communication]]  

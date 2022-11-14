@@ -1,8 +1,6 @@
-# Game Plan
+# Game Building Plan
 
 ![[Image by Adam Muise.webp]]
-
-## A Plan for Building the Game
 
 ### Where Should We Start?
 
