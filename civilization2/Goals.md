@@ -32,7 +32,7 @@ Everything Is Legal (except harm)
 
 Our current legal system dispenses imperfect justice. It generates more money for lawyers and the wealthy than for most of the rest of us. Judges have guidelines that impose one-size-fits-none rulings. At 2.0, we think that the complexity involved is not neither needed nor reliable. We are curious if we start with "Everything is legal, except harm." Focusing instead on what causes harm, and on what does "harm" mean?
 
-[Honesty and Transparency](https://www.civilization2.org/information)
+[Honesty and Transparency](https://wiki.civilization2.org/information)
 
 Truth, accountability, reliability and consistency allows us to trust and depend on others. We create a way for deception to be reported so we can all either avoid or disregard it. We want all the information at our fingertips to be useful as is.
 

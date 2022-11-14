@@ -18,5 +18,5 @@ Imagine playing a game where everyone is constructing a civilization in great d
 
 Our other goal is to look for steps that can nudge the real world further towards 2.0. Right now all we see are insurmountable obstacles, discouraging us into giving up. As we play the game, new insights and perspectives will likely reveal simple and peaceful opportunities for nudging.
 
-Whatever gets built must be open source: it shall always be available to anyone. [I humbly call](https://www.civilization2.org/voice) upon the genius of all who might participate and all who have spare resources. [I describe this in detail on the game site](http://www.game.civilization2.org/).
+Whatever gets built must be open source: it shall always be available to anyone. [I humbly call](https://wiki.civilization2.org/voice) upon the genius of all who might participate and all who have spare resources. [I describe this in detail on the game site](http://wiki.game.civilization2.org/).
 

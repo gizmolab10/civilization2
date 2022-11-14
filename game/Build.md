@@ -8,11 +8,11 @@ Each booth will be designed and created by members of the game guild. We hope to
 
 ### Game Guild
 
-The game guild supplies the game framework and tools, from first code and throughout the lifetime of the game. Players who are keen to add core improvements to the game are encouraged to join this guild. Sculpting the game is an enormous undertaking, requiring engineers, artists, psychologists, philosophers and likely other skills. If you want to work with us on this, [please let us know](http://www.civilization2.org/what-can-i-do-to-help).
+The game guild supplies the game framework and tools, from first code and throughout the lifetime of the game. Players who are keen to add core improvements to the game are encouraged to join this guild. Sculpting the game is an enormous undertaking, requiring engineers, artists, psychologists, philosophers and likely other skills. If you want to work with us on this, send me an email at sand@gizmolab.com.
 
 ### Game Building Game
 
-To make this fun for the game builders, we hope to begin with a [toolkit](https://www.game.civilization2.org/tools) built into the game which players can use to build booths, guilds and maps. Extending and improving the game is a build-in capability. Building the game-builder game will be a first mission goal.
+To make this fun for the game builders, we hope to begin with a [toolkit](https://wiki.game.civilization2.org/tools) built into the game which players can use to build booths, guilds and maps. Extending and improving the game is a build-in capability. Building the game-builder game will be a first mission goal.
 
 ## Realism
 
