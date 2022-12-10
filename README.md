@@ -35,7 +35,7 @@ Here is the good news: that training is showing up. It's mostly outside of acade
 
 Meanwhile, the world is tipping towards 2.0, here and there. We're exploring lots of ways for 2.0 to operate in 1.0. I've been [collecting examples of 2.0](list) that are robust and solid. It's meant to build a case that optimism is not so foolish. Of course, I would love for you to send me more, to help me build a beacon of optimism.
 
-Okay, here's where my passion is on fire. I would love if we could [design and play in 2.0](http://www.game.civilization2.org/). I want to immerse in it, play with lots of people in it. Learn about being human in a 2.0 context. Experimenting is important for systematically building something new. I want people of every level of training to be touched by this luscious, living experiment about human culture. I want the world to be able to take ideas from it back into the "real world" to nudge us tiny bits further into 2.0.
+Okay, here's where my passion is on fire. I would love if we could [design and play in 2.0](http://wiki-game.civilization2.org/). I want to immerse in it, play with lots of people in it. Learn about being human in a 2.0 context. Experimenting is important for systematically building something new. I want people of every level of training to be touched by this luscious, living experiment about human culture. I want the world to be able to take ideas from it back into the "real world" to nudge us tiny bits further into 2.0.
 
 Without optimism thinking about creating 2.0 seems foolish. But without optimism, life seems brooding and stressful. So, optimism is the first step and learning the skills of collective intelligence are the best next steps I know of.
 
