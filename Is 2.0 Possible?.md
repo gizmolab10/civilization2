@@ -1,6 +1,6 @@
 # Is 2.0 Possible?
 
-
+![[impossible.jpeg]]
 
 Two big questions emerge: Can we flourish under a different economy, one that tends to create equality and nurturing? How do we collect together all our ideas?
 
