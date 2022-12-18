@@ -8,7 +8,7 @@ Here I showcase examples of already operating organizations, individuals and co
 
 Also, I like to think that when you spend on (or donate money to) these entities, you are strengthening efforts to usher in 2.0.
 
-I want your [suggestions](https://www.civilization2.org/voice) regarding who or what to add here.
+I want your [suggestions](mailto:sand@gizmolab.com) regarding who or what to add here.
 
 ### [Bhutan](https://en.wikipedia.org/wiki/Bhutan)
 
@@ -50,7 +50,7 @@ Various centers around the world teach how to communicate feelings and needs. Th
 
 They are completely 2.0. Everything is free and of high quality. They are vigilant about honesty.
 
-## Each of these articles probe the same issues and come to conclusions similar to ours.
+## Each of these articles probe the same issues and come to conclusions similar to ours
 
 ### [Paul Mason](https://www.theguardian.com/books/2019/apr/26/clear-bright-future-by-paul-mason-review-radical-optimism)
 
