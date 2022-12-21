@@ -1,11 +1,11 @@
 # Civilization 2.0
 
-[[README|Home]]  	
+### [[README|Home]]  	
 - [[Is 2.0 Possible?|Can We?]]  
 - [[Road Map]]  
-[[Goals]]  
+### [[Goals]]  
 - [[Regard]]  
 - [[High Quality Information|Information]]  
-[[Obstacles]]  
+### [[Obstacles]]  
 - [[Gullibility]]  
-[[Evidence]]  
+### [[Evidence]]  
