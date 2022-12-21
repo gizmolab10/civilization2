@@ -7,5 +7,5 @@
 ### [[Regard]]  
 ### [[High Quality Information|Information]]  
 ## [[Obstacles]]  
-###  [[Gullibility]]  
+### [[Gullibility]]  
 ## [[Evidence]]  
