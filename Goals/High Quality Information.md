@@ -2,11 +2,9 @@
 
 ![[92951839_3177150818976330_28607340921592.webp]]
 
-Pundits often refer this and the previous century as the Information Age. However, a great fraction of the available information is misleading, inaccurate or just plain lies. We can trust only a fraction of what we read and we have to work hard to get reliable guidance. Purveyors of information also have to work hard to distinguish themselves as trustworthy.
+It's often said that we're in the Information Age. I'm inclined to call our culture disinformation rich, it's the new normal. Hard to find the good stuff. Doubt is everywhere. Gosh, this is a silly use of language: disinformation weilded like a magician to divert your attention away from where the action is happening.
 
-I think this is a silly use of language. Language seems to have always been present, but our species created it over millennia and our evolving genetics has molded our brain structures to absorb the rudiments of language early in life. This strikes us as beautiful, amazing and darned useful.
-
-Saturating our information system with bogus material strikes me as greatly harmful to our species. Like purposely holding a delicate and finely crafted surgeon's tool under a blowtorch, ruining it.
+Our natural affinity for language is beatiful. Saturating our information system with bogus material strikes me as greatly harmful to our species. Like purposely holding a delicate and finely crafted surgeon's tool under a blowtorch, ruining it.
 
 So, what can we do about this? Punishment rarely works on us as adults. What often does work is reward. Thus, we want to reward transparency and honesty with regard currency. Let's promote the idea of being trustworthy about information as part of the path to influence and power.
 
