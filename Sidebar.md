@@ -1,6 +1,6 @@
 # Civilization 2.0
 
-[[README|Home]]  
+[[README original|Home]]  
 &nbsp; [[Is 2.0 Possible?|Can We?]]  
 &nbsp; [[Road Map]]  
 [[Goals]]  

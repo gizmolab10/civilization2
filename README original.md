@@ -17,10 +17,10 @@ Yet how can we accomplish such an improvement?  I don't know, but I think that 
 
 I think the answer must start with a clear agreement about what constitutes 2.0. I've been thinking about this for going on six years and whittled a description down to five goals:
 
-1.  maximize reliability of all information sources without suppressing individual opinion
-2.  drive our manufacture and distribution of goods and services based on existing needs, not profit
-3.  provide excellent education and training that prepares us to be ethical and benevolent as well as technologically able to adapt to massively increased inventiveness and that teaches us to actually think both individually and collectively
-4.  establish a bullet proof repository of opinion that accurately represents every last one of us and more accurately guides large-scale decisions and appointment of decision makers
+1. maximize reliability of all information sources without suppressing individual opinion
+2. drive our manufacture and distribution of goods and services based on existing needs, not profit
+3. provide excellent education and training that prepares us to be ethical and benevolent as well as technologically able to adapt to massively increased inventiveness and that teaches us to actually think both individually and collectively
+4. establish a bullet proof repository of opinion that accurately represents every last one of us and more accurately guides large-scale decisions and appointment of decision makers
 5.  make the notions of meaning, passion, creativity, need and relationship more important than consumerism
 
 Do these goals appeal to you?
@@ -33,7 +33,7 @@ Along these lines, two ideas have become, for me, the vague sense of an answer: 
 
 Here is the good news: that training is showing up. It's mostly outside of academia but it's good stuff. It's hard to describe in a convincing manner, but when you experience it, I'm confident you will see it as a compelling answer to how. Perhaps it will suffice to say, "we just need to be able to speak to each other with both our best interests in mind."
 
-Meanwhile, the world is tipping towards 2.0, here and there. We're exploring lots of ways for 2.0 to operate in 1.0. I've been [collecting examples of 2.0](https://civilization2.org/Evidence/Evidence.html) that are robust and solid. It's meant to build a case that optimism is not so foolish. Of course, I would love for you to send me more, to help me build a beacon of optimism.
+Meanwhile, the world is tipping towards 2.0, here and there. We're exploring lots of ways for 2.0 to operate in 1.0. I've been [[Evidence|collecting examples of 2.0]] that are robust and solid. It's meant to build a case that optimism is not so foolish. Of course, I would love for you to send me more, to help me build a beacon of optimism.
 
 Okay, here's where my passion is on fire. I would love if we could [design and play in 2.0](http://game.civilization2.org/). I want to immerse in it, play with lots of people in it. Learn about being human in a 2.0 context. Experimenting is important for systematically building something new. I want people of every level of training to be touched by this luscious, living experiment about human culture. I want the world to be able to take ideas from it back into the "real world" to nudge us tiny bits further into 2.0.
 
