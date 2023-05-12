@@ -5,7 +5,7 @@
 
 ## Global Optimism
 
-I believe that our civilization has reached a state of negativity, hostility, and exhaustion for many individuals. Trust in others has eroded, skepticism prevails, and we expect to be deceived, betrayed, and bombarded with falsehoods. Our online existence is filled with complexities, passwords, and the constant threat of predators. Junk mail, advertisements, disinformation, and petty crimes consume our attention. Robot intelligence adds to our misery with unwanted calls, scams, and frustrating user experiences. We have normalized a culture of junk, violence, riots, manipulation, and neglect.
+I believe that our civilization has reached a state of negativity, hostility, and exhaustion for too many of us and feel that typical desire to so something about it. Trust in others has eroded, skepticism prevails, and we expect to be deceived, betrayed, and bombarded with falsehoods. Our online existence is filled with complexities, passwords, and the constant threat of predators. Junk mail, advertisements, disinformation, and petty crimes consume our attention. Robot intelligence adds to our misery with unwanted calls, scams, and frustrating user experiences. We have normalized a culture of junk, violence, riots, manipulation, and neglect.
 
 This is an absurd way for our species to treat itself. Very few other species behave in such a manner. We are intelligent beings who have accomplished much for ourselves, and now it is time to move forward.
 
